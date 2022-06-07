@@ -1,8 +1,8 @@
 export default function Home() {
-  const hi = 1
-  return 
+  const hi = 1'
+  return (
     <>
-      <h1>Hello Next.js</h1
+      <h1>Hello Next.js</h1>
     </>
   );
 }
